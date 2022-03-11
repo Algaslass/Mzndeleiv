@@ -1,0 +1,56 @@
+
+
+   
+.vertbleu{
+    background-color: #86D5BD;
+}
+.vert{
+    background-color: #ACDEA3;
+}
+.orang{
+    background-color: #EB9276;
+}
+.jauneclaire{
+    background-color: #F0F9C1;
+}
+.orangeclaire{
+    background-color: #BC9C7B;
+}
+.violet{
+    background-color: #796DAD;
+}
+.jaune{
+    background-color: #FEECB9;
+}
+.bleu{
+    background-color: #6EA8CA;
+}
+.rouge{
+    background-color: #C1618D;
+}
+.rose{
+    background-color: #AD6770;
+}
+.lettre{
+    font-weight: bold;
+}
+td{
+   
+    text-align: center;
+    font-size: 0.9vw;
+}
+p{
+   
+}
+
+.tabledeux{
+   
+    width: 100%;
+}
+
+.tableun{
+    
+    width: 100%;
+}
+
+
